@@ -10,7 +10,7 @@
 [![Discord](https://img.shields.io/badge/Discord-Expectatives%231157-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://dsc.gg/faithcommunity)
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/70385393?s=400&u=19564050c6f3335cdc3d1b7dcb89e0fe21e20bd5&v=4"/>
+  <img src="https://avatars.githubusercontent.com/u/70385393?s=400&u=19564050c6f3335cdc3d1b7dcb89e0fe21e20bd5&v=4" />
 </p>
 
 ### GitHub Stats
