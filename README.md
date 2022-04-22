@@ -2,7 +2,7 @@
   
 <h1 align="center">
   <a href="https://expectatives.ga">
-    <img src="https://readme-typing-svg.herokuapp.com?size=25&lines=++Hi+there%2C+I'm+Expectatives+%F0%9F%91%8B">
+    <img src="https://readme-typing-svg.herokuapp.com?size=25&lines=++Hi+there%2C+I'm+Daffa Rasendriya+%F0%9F%91%8B">
   </a>
 </h1>
 
